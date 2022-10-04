@@ -11,6 +11,7 @@ pipeline {
             }
         }
 
+		
 	stage ('Testing Stage') {
             steps {
                 withMaven(maven : 'Maven 3.8.6') {
