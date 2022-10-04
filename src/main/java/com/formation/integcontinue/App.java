@@ -1,7 +1,7 @@
 package com.formation.integcontinue;
 
 /**
- * Hello world!
+ * Hello world test!
  *
  */
 public class App 
